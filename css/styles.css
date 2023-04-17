@@ -1,0 +1,9 @@
+.gallery {
+    max-width: 990px;
+    display: grid;
+    grid-template-rows: 100px 100px 100px 100px;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-row-gap: 20px;
+    grid-column-gap: 15px;
+}
+
