@@ -1,5 +1,6 @@
 body {
     max-width: 1024px;
+    margin: auto;
 }
 
 .gallery {
@@ -8,5 +9,4 @@ body {
     grid-template-columns: repeat(auto-fit, 200px);
     grid-template-rows: repeat(3, 200px);
     grid-gap: 2rem;
-    margin: auto;
 }
