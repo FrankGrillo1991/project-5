@@ -13,4 +13,5 @@ body {
 
 .search {
     margin: auto;
+    display: block;
 }
