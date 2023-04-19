@@ -1,3 +1,7 @@
+window.addEventListener('load', function()) {
+    baguetteBox.run('.gallery');
+});
+
 function myFunction() {
     var input, filter, ul, li, a , i, txtValue;
     input = document.getElementById('myInput');
