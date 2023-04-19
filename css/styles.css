@@ -2,10 +2,10 @@ body {
     max-width: 1024px;
 }
 
-.row {
+.gallery {
     display: grid;
     justify-content: center;
-    grid-template-columns: repeat (auto-fit, 200px);
-    grid-template-rows: repeat (3, 200px);
+    grid-template-columns: repeat(auto-fit, 200px);
+    grid-template-rows: repeat(3, 200px);
     grid-gap: 2rem;
 }
