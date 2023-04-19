@@ -2,7 +2,7 @@ window.addEventListener('load', function() {
     baguetteBox.run('.gallery');
 });
 
-const search = new Filter('search' 'data-caption');
+const search = new Filter('search', 'data-caption');
 
 function myFunction() {
     var input, filter, ul, li, a , i, txtValue;
